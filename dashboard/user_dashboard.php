@@ -44,7 +44,7 @@ $user = mysqli_fetch_assoc($result);
         <br>
         <a href="../auth/logout.php">Logout</a>
         <br>
-        <a href="../index.php">kembali ke Halaman Utama</a>
+        <a href="../index.html">kembali ke Halaman Utama</a>
     </div>
 </body>
 </html>
